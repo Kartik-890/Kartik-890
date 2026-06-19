@@ -1,9 +1,12 @@
 # Hello 👋, I am Kartik !
 
 ## Robotics Software Engineer focusing on Computer Vision, sensor fusion and AI
-📍 Location: Darmstadt ...
-📧 Email: kartiktrivedi020@gmail.com ...
-🔗 LinkedIn: linkedin.com/in/kartik-trivedi123/ ...
+```md
+📍 **Location:** Darmstadt  
+📧 **Email:** kartiktrivedi020@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/kartik-trivedi123](https://linkedin.com/in/kartik-trivedi123/)
+```
+
 
 
 
