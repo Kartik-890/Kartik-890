@@ -1,6 +1,6 @@
 # Hello 👋, I am Kartik !
 
-# Robotics Software Engineer focusing on Computer Vision, sensor fusion and AI
+## Robotics Software Engineer focusing on Computer Vision, sensor fusion and AI
 
 
 Here are some ideas to get you started:
