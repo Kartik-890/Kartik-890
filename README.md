@@ -1,7 +1,7 @@
 ## Hello 👋, I am Kartik !
 
-<!--
-**Kartik-890/Kartik-890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Robotics Software Engineer focusing on Computer Vision, sensor fusion and AI
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
