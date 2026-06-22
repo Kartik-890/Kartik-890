@@ -13,7 +13,7 @@ robotics software engineer. Passionate about robotics autonmous perception syste
 ## Professional background 💻
 **Master thesis** - Fraunhofe LBF, Darmstadt, Germany (Sep.2025 - present)
 **student assistant** - Fraunhofer IPA Remote (May,2025 - Aug,2025)
-**Assistant Engineer** - Surat, India (Aug,2020 - Oct,2022)
+**Assistant Engineer**  - Surat, India (Aug,2020 - Oct,2022)
 
 
 
