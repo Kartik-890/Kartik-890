@@ -30,10 +30,13 @@ I am a Robotics Software Engineer passionate about robotics, autonomous percepti
 * Coding Tools: Jupyter Notebook, Git, Docker
 * Hardware: AutoCAD, AutoDask, CAD 
 
-## Education
-*OTH Regensburg 
-M.Eng, Electrical and Microsystems Engineering 
-Mar 2023 – Present 
-Regensburg, Germany 
-• Key subjects: Machine Learning for Engineering Applications, Advanced Engineering Mathematics, 
-Optoelectronics, Technical Optics, LED Technology 
+## Education 🎓
+
+- **M.Eng. Electrical and Microsystems Engineering**, OTH Regensburg, Germany  
+  - Key Subjects: Machine Learning for Engineering Applications, Advanced Engineering Mathematics, Optoelectronics, Technical Optics, LED Technology  
+  - Master Thesis / Research: Object Detection and Semantic Segmentation for Marine AUV Systems using Transformer-Based Vision Models and Sensor Fusion  
+  - Focus Areas: Computer Vision, Sensor Fusion, ROS, LiDAR, IMU, Deep Learning, Autonomous Systems  
+
+- **B.Tech. Mechanical Engineering**, Gujarat Technological University, Ahmedabad, India  
+  - Relevant Coursework: Manufacturing Processes, Control Systems, Programming for Engineers, Computer Programming  
+  - Project Work: Robotics Simulation, Design and Kinematic Analysis of a 3-DOF robotic arm and rehabilitation exoskeleton   
