@@ -20,3 +20,12 @@ I am a Robotics Software Engineer passionate about robotics, autonomous percepti
 
 * **Assistant Engineer** — Surat, India
   *August 2020 – October 2022*
+
+## Technical Toolbox 
+
+* Language: C++, Python
+* Robotics: ROS, ROS2
+* AI & ML: OpenCV, PCL, Open3D, PyTorch, TensorFlow, Scikit-Learn
+* Libraries: Numpy, Pandas, Matplotlib, Scipy
+* Coding Tools: Jupyter Notebook, Git, Docker
+* Hardware: AutoCAD, AutoDask, CAD 
