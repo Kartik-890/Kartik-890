@@ -29,3 +29,11 @@ I am a Robotics Software Engineer passionate about robotics, autonomous percepti
 * Libraries: Numpy, Pandas, Matplotlib, Scipy
 * Coding Tools: Jupyter Notebook, Git, Docker
 * Hardware: AutoCAD, AutoDask, CAD 
+
+## Education
+*OTH Regensburg 
+M.Eng, Electrical and Microsystems Engineering 
+Mar 2023 – Present 
+Regensburg, Germany 
+• Key subjects: Machine Learning for Engineering Applications, Advanced Engineering Mathematics, 
+Optoelectronics, Technical Optics, LED Technology 
